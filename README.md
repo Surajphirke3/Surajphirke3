@@ -54,7 +54,7 @@ I'm a passionate **Full-Stack Developer & UI/UX Designer** currently pursuing **
 
 ## 🚀 My Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajphirke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajphirke3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
