@@ -42,13 +42,13 @@ I'm a passionate **Full-Stack Developer & UI/UX Designer** currently pursuing **
 
 ## 📈 GitHub Stats
 
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajphirke&show_icons=true&theme=radical)
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajphirke3&show_icons=true&theme=radical)
 
 <br/>
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajphirke&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajphirke3&theme=radical)](https://git.io/streak-stats)
 
 <br/>
 
