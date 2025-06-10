@@ -5,7 +5,7 @@ I'm a passionate **Full-Stack Developer & UI/UX Designer** currently pursuing **
 <br/>
 
 ## 🌟 About Me
-- 🎓 **Student**: Pursuing a **Bachelor of Engineering (BE) in Computer Engineering**.
+- 🎓 **Student**: Pursuing a **Bachelor of Engineering (BE) in Artifical Intelligence and Data Science**.
 - 💻 **Full-Stack Developer**: Specializing in **Next.js, TypeScript, and modern web technologies**.
 - 🎨 **UI/UX Designer**: Crafting intuitive and aesthetic user experiences.
 - 🚀 **FinTech Enthusiast**: Building **Nextus – A Financial SaaS Platform**.
