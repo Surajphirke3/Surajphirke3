@@ -60,8 +60,9 @@ I'm a passionate **Full-Stack Developer & UI/UX Designer** currently pursuing **
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=surajphirke3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Surajphrike3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📫 Connect with Me
 
